@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Codomax Digital Solutions – Module 01: Introduction to AI & Python
 
 Welcome to the repository for **Module 01: Introduction to AI & Python**, completed as part of the internship at **Codomax Digital Solutions**.
@@ -126,3 +127,6 @@ python --version
 **Hema Bala**  
 *Intern, Codomax Digital Solutions*  
 Module 01: Introduction to AI & Python
+=======
+# Codomax-Module-01
+>>>>>>> d75d63cb31967ea55cf290312ee496a49beb02ef
